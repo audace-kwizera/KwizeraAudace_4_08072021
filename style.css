@@ -825,6 +825,55 @@ h4 {
     background-image: url("img/image-de-presentation.bmp");
 }
 
+
+/*=============================================
+Modification ==================================
+Idées accessibilite ===========================
+=============================================*/
+
+
+/* Bloc presentation */
+.mofication__la__chouette__agence {
+    font-weight: 550;
+    color: white!important;
+}
+
+/* Bloc services */
+.modification__slogan__services {
+    margin: 2rem 20rem;
+}
+
+.modification__slogan__services__bloc {
+    margin: 1.5%;
+    width: 30% 
+}
+
+.modification__slogan__services__titre {
+    font-size: 1.65rem;
+}
+
+.modification__slogan__services__description {
+    font-size: 1.4rem;
+}
+
+.modification__slogan__services__temoignage {
+    font-size: 2.5rem;
+    font-style: italic;
+}
+
+.modification__slogan__services__temoignage__auteur {
+    font-size: 1.35rem;
+}
+
+/* what-i-do */
+
+
+/*=============================================
+===============================================
+===============================================
+==============================================*/
+
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
