@@ -831,6 +831,23 @@ Modification ==================================
 Idées accessibilite ===========================
 =============================================*/
 
+/*=============== Header ====================*/
+
+/* header */
+
+.modification__header__lien {
+    margin: 0 2rem;
+}
+
+.modification__header__lien:hover {
+    color: black!important;
+    background:#F3976C!important;
+    border-radius: 50px;
+    transition: 250ms linear;
+} 
+/* header == end*/
+
+/*=============== Page Accueil ====================*/
 
 /* Bloc presentation */
 .mofication__la__chouette__agence {
@@ -881,19 +898,6 @@ Idées accessibilite ===========================
 .modification__what__i__do__description {
     font-size: 1.5rem;
 }
-
-.modification__what__i__do__lien {
-    margin-top: 22px;
-    color: #FFFFFF!important;
-    text-transform: uppercase;
-    padding: 12px 28px 12px 28px;
-    font-size: 16px;
-    font-weight: 700;
-    background: #F3976C;
-    color: #FFFFFF!important;
-    border-radius: 50px;
-    text-decoration: none!important;
-}
 /* what-i-do == end */
 
 /* portfolio */
@@ -920,6 +924,58 @@ Idées accessibilite ===========================
 }
 /* cta == end */
 
+/*=============== Page contact ====================*/
+
+/* Page contact parlons design */
+.modification__page__contact__parlons__design__titre {
+    color: white!important;
+    font-weight: 700;
+}
+
+.modification__page__contact__parlons__design__description {
+    color: white!important;
+    font-size: 1.9rem;
+    margin-top: 4rem;
+}
+
+.modification__page__contact__parlons__design__formulaire__label {
+    font-size: 1.7rem;
+}
+
+.modification__page__contact__parlons__design__formulaire__adresse {
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+
+}
+
+/* Page contact parlons design == end */
+
+/* Scroll*/
+.modification__scroll__to__top__button {
+    width: 40px;
+    height: 40px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    opacity: 1;
+    z-index: 500;
+    transition: all .3s ease-in-out;
+    background: white;
+    border-color: #F3976C;
+    color: #F3976C;
+    box-shadow: 3px 5px 15px 3px rgb(128 128 128 / 30%);
+}
+
+.modification__scroll__to__top__button__icone {
+    color: black;
+}
+
+
+/*=============== Footer ====================*/
+
 /* footer */
 .modification__footer__description {
     font-size: 1.3rem;
@@ -929,7 +985,13 @@ Idées accessibilite ===========================
 .modification__footer__icone {
     color: black!important;
 }
+
+.modification__footer__icone:hover {
+    color: white!important;
+    transition: 400ms ease;
+}
 /* footer == end*/
+
 
 /*=============================================
 ===============================================
