@@ -851,6 +851,13 @@ Idées accessibilite ===========================
 
 /*=============== Page Accueil ====================*/
 
+/* Boutons */
+.bouton__orange__en__noir {
+    color: black!important;
+    font-weight: 900;
+}
+/* Boutons == end */
+
 /* Bloc presentation */
 .mofication__la__chouette__agence {
     font-weight: 550;
@@ -888,7 +895,6 @@ Idées accessibilite ===========================
 /* Bloc services == end */
 
 /* what-i-do */
-
 .modification__what__i__do__bloc {
     backdrop-filter: blur(20px);
 }
@@ -945,7 +951,7 @@ Idées accessibilite ===========================
 }
 
 .modification__page__contact__parlons__design__formulaire__adresse {
-    font-size: 1.5rem;
+    font-size: 2rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -953,6 +959,10 @@ Idées accessibilite ===========================
 
 }
 
+.bouton__orange__en__noir__envoyer {
+    color: black!important;
+    font-weight: 900;
+}
 /* Page contact parlons design == end */
 
 /* Scroll*/
