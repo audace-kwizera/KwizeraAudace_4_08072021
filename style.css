@@ -840,10 +840,12 @@ Idées accessibilite ===========================
 }
 
 .modification__header__lien:hover {
-    color: black!important;
+    color: white!important;
+    font-weight: 800;
     background:#F3976C!important;
+    font-style: italic;
     border-radius: 50px;
-    transition: 250ms linear;
+    transition: 500ms linear;
 } 
 /* header == end*/
 
