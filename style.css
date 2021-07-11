@@ -1233,6 +1233,11 @@ Idées accessibilite ===========================
         margin-left: 0;
     }
 
+    .section__service__bloc__titre__bloc {
+        display: flex;
+        justify-content: center;
+    }
+
     .section__service__bloc__titre__texte {
         font-size: 2rem;
         margin: 0;
