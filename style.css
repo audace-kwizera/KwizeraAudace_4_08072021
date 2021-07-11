@@ -359,7 +359,6 @@ a:hover {
 .nav-invert .navbar-brand {
     float: right;
     position: relative;
-    z-index: 2;
 }
 
 @media (min-width: 768px) {
