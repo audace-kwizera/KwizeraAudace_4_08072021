@@ -1301,6 +1301,24 @@ Idées accessibilite ===========================
     .modification__portfolio__carte__description {
         font-size: 1.8rem;
     }
+    /*  What i do - portfolio == end    */
+
+    /*  contact fin de page index */
+
+    .modification__cta__titre {
+        margin: 0;
+    }
+
+    /*  contact fin de page index == end */
+
+    /*  footer  */
+
+    .modification__footer__description {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    /*  footer == end   */
 }
 
 /*=============================================
