@@ -1275,12 +1275,38 @@ Idées accessibilite ===========================
     .modification__slogan__services__temoignage__auteur {
         font-size: 1.5rem;
     }
+    /*  Services == end    */
+
+    /*  What i do - portfolio   */
+    .modification__what__i__do__description {
+        font-size: 1.8rem;
+    }  
+
+    .modification__portfolio__bloc__row {
+        display: flex;
+        justify-content: center;
+    }
+
+    .modification__portfolio__titre__bloc {
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        margin: 0;
+    }
+
+    .modification__portfolio__titre {
+        width: 70%;
+    }
+
+    .modification__portfolio__carte__description {
+        font-size: 1.8rem;
+    }
+}
 
 /*=============================================
 Modification ==================================
 Idées accessibilite ===========================
 =============================================*/
-}
 
 @media (max-width: 400px) {
     .bloc {
