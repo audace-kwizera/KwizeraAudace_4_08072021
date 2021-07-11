@@ -1211,6 +1211,70 @@ Idées accessibilite ===========================
         width: 180px;
         height: 320px;
     }
+
+    /*=============================================
+Modification ==================================
+Idées accessibilite ===========================
+=============================================*/
+
+    /*  Services    */
+    .section__service {
+        display: flex;
+    }
+
+    .section__service__bloc {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .section__service__bloc__titre {
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    .section__service__bloc__titre__texte {
+        font-size: 2rem;
+        margin: 0;
+        width: 70%;
+    }
+
+    .section__service__bloc__services {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .modification__slogan__services__bloc {
+        margin: 2%;
+        width: 46%;
+    }
+
+    .modification__slogan__services__description {
+        font-size: 1.8rem;
+    }
+
+    .section__service__bloc__temoignage {
+        display: flex;
+        justify-content: center;
+    }
+
+    .section__service__bloc__temoignage__texte {
+        width: 70%;
+    }
+
+    .modification__slogan__services__temoignage {
+        font-size: 2rem;
+    }
+
+    .modification__slogan__services__temoignage__auteur {
+        font-size: 1.5rem;
+    }
+
+/*=============================================
+Modification ==================================
+Idées accessibilite ===========================
+=============================================*/
 }
 
 @media (max-width: 400px) {
@@ -1218,6 +1282,16 @@ Idées accessibilite ===========================
         padding-left: 0;
         padding-right: 0;
     }
+
+    /*=============================================
+Modification ==================================
+Idées accessibilite ===========================
+=============================================*/
+
+/*=============================================
+Modification ==================================
+Idées accessibilite ===========================
+=============================================*/
 }
 
 @media (max-width: 767px) {
