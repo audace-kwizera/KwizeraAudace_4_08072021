@@ -1363,6 +1363,32 @@ Idées accessibilite ===========================
         padding-right: 0;
     }
 
+    /*  Services */
+    .section__service__bloc__titre__texte {
+        width: 100%;
+    }
+
+    .modification__slogan__services__bloc__services {
+        flex-direction: column;
+        margin: 5rem 2rem;
+    }
+
+    .modification__slogan__services__bloc {
+        width: 100%;
+        margin: 2rem 0;
+    }
+
+    .section__service__bloc__temoignage {
+        margin: 0;
+    }
+
+    .section__service__bloc__temoignage__texte {
+        width: 100%;
+    }
+    /*  Services == end */
+
+}
+
     /*=============================================
 Modification ==================================
 Idées accessibilite ===========================
@@ -1372,7 +1398,6 @@ Idées accessibilite ===========================
 Modification ==================================
 Idées accessibilite ===========================
 =============================================*/
-}
 
 @media (max-width: 767px) {
     .bloc-mob-center-text {
