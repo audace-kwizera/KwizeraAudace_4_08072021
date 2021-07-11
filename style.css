@@ -1387,14 +1387,60 @@ Idées accessibilite ===========================
     }
     /*  Services == end */
 
+    /* what i do - portfolio */
+    .modification__what__i__do {
+        padding: 0;
+    }
+
+    .modification__what__i__do__titre {
+        font-size: 2.1rem;
+        font-weight: 550;
+    }
+
+    .modification__what__i__do__description {
+        margin: 5rem 0;
+    }
+
+    .modification__portfolio__titre {
+        width: 100%;
+    }
+
+    .modification__portfolio__bloc__row {
+        flex-direction: column;
+    }
+
+    .modification__portfolio__carte {
+        width: 94%;
+        margin-top: 10rem;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+    /* what i do - portfolio == end */
+
+    /*  contact fin de page index */
+    .modification__cta__titre {
+        margin: 5rem 0;
+    }
+    /*  contact fin de page index == end */
+
+    /*  Formulaure page contact */
+
+    .mofification__page__contact__parlons__design__formulaire {
+        display: flex;
+        justify-content: center;
+        width: 50%;
+    }
+
+    .modification__page__contact__parlons__design__formulaire__adresse {
+        margin: 2rem;
+    }
+
+    .social {
+        width: 70%;
+    }
 }
 
     /*=============================================
-Modification ==================================
-Idées accessibilite ===========================
-=============================================*/
-
-/*=============================================
 Modification ==================================
 Idées accessibilite ===========================
 =============================================*/
