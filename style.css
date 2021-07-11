@@ -1212,10 +1212,26 @@ Idées accessibilite ===========================
         height: 320px;
     }
 
-    /*=============================================
+/*=============================================
 Modification ==================================
 Idées accessibilite ===========================
 =============================================*/
+
+    /*  header  */
+
+    .modification__header__lien {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        margin: 0;
+    }
+
+    .modification__header__lien:hover {
+        border-radius: 0;
+        margin: 0;
+    }
+
+    /*  Fin header  */
 
     /*  Services    */
     .section__service {
@@ -1310,6 +1326,21 @@ Idées accessibilite ===========================
     }
 
     /*  contact fin de page index == end */
+
+
+    /*  Formulaure page contact */
+
+    .mofification__page__contact__parlons__design__formulaire {
+        display: flex;
+        justify-content: center;
+        width: 75%;
+    }
+    /**/
+
+    .modification__page__contact__parlons__design__formulaire__adresse {
+        margin: 2rem;
+    }
+
 
     /*  footer  */
 
