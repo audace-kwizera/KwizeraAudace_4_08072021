@@ -904,12 +904,12 @@ Idées accessibilite ===========================
 /* what-i-do == end */
 
 /* portfolio */
-.modification__portfolio__titre {
+.portfolio__titre {
     font-size: 2.5rem;
     font-weight: 700;
 }
 
-.modification__portfolio__carte__description {
+.portfolio__carte__description {
     font-size: 1.4rem;
 }
 
@@ -920,7 +920,7 @@ Idées accessibilite ===========================
 /* portfolio == end */
 
 /* cta */
-.modification__cta__titre {
+.cta__titre {
     margin: 0 31rem;
     color: white!important;
 }
@@ -1283,34 +1283,34 @@ Idées accessibilite ===========================
     /*  Services == end    */
 
     /*  What i do - portfolio   */
-    .modification__what__i__do__description {
+    .what__i__do__description {
         font-size: 1.8rem;
     }  
 
-    .modification__portfolio__bloc__row {
+    .portfolio__bloc__row {
         display: flex;
         justify-content: center;
     }
 
-    .modification__portfolio__titre__bloc {
+    .portfolio__bloc__titre {
         display: flex;
         width: 100%;
         justify-content: center;
         margin: 0;
     }
 
-    .modification__portfolio__titre {
+    .portfolio__titre {
         width: 70%;
     }
 
-    .modification__portfolio__carte__description {
+    .portfolio__carte__description {
         font-size: 1.8rem;
     }
     /*  What i do - portfolio == end    */
 
     /*  contact fin de page index */
 
-    .modification__cta__titre {
+    .cta__titre {
         margin: 0;
     }
 
@@ -1381,20 +1381,20 @@ Idées accessibilite ===========================
         padding: 0;
     }
 
-    .modification__what__i__do__titre {
+    .what__i__do__titre {
         font-size: 2.1rem;
         font-weight: 600;
     }
 
-    .modification__what__i__do__description {
+    .what__i__do__description {
         margin: 5rem 0;
     }
 
-    .modification__portfolio__titre {
+    .portfolio__titre {
         width: 100%;
     }
 
-    .modification__portfolio__bloc__row {
+    .portfolio__bloc__row {
         flex-direction: column;
     }
 
@@ -1407,7 +1407,7 @@ Idées accessibilite ===========================
     /* what i do - portfolio == end */
 
     /*  contact fin de page index */
-    .modification__cta__titre {
+    .cta__titre {
         margin: 5rem 0;
     }
     /*  contact fin de page index == end */
