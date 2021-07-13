@@ -858,7 +858,7 @@ Idées accessibilite ===========================
 /* Boutons == end */
 
 /* Bloc presentation */
-.mofication__la__chouette__agence {
+.presentation__la__chouette__agence__titre {
     font-weight: 600;
     color: white!important;
 }
@@ -866,39 +866,39 @@ Idées accessibilite ===========================
 /* Bloc presentation == end */
 
 /* Bloc services */
-.modification__slogan__services {
+.services__slogan {
     margin: 2rem 20rem;
 }
 
-.modification__slogan__services__bloc {
+.services__slogan__bloc {
     margin: 1.5%;
     width: 30% 
 }
 
-.modification__slogan__services__titre {
+.services__slogan__titre {
     font-size: 1.65rem;
 }
 
-.modification__slogan__services__description {
+.services__slogan__description {
     font-size: 1.4rem;
 }
 
-.modification__slogan__services__temoignage {
+.services__slogan__temoignage {
     font-size: 2.5rem;
     font-style: italic;
 }
 
-.modification__slogan__services__temoignage__auteur {
+.services__slogan__temoignage__auteur {
     font-size: 1.35rem;
 }
 /* Bloc services == end */
 
 /* what-i-do */
-.modification__what__i__do__titre {
+.what__i__do__titre {
     color: white!important;
 }
 
-.modification__what__i__do__description {
+.what__i__do__description {
     font-size: 1.5rem;
 }
 /* what-i-do == end */
@@ -1223,61 +1223,61 @@ Idées accessibilite ===========================
     /*  Fin header  */
 
     /*  Services    */
-    .section__service {
+    .service {
         display: flex;
     }
 
-    .section__service__bloc {
+    .service__bloc {
         display: flex;
         flex-direction: column;
         width: 100%;
     }
 
-    .section__service__bloc__titre {
+    .service__bloc__titre {
         margin-right: 0;
         margin-left: 0;
     }
 
-    .section__service__bloc__titre__bloc {
+    .service__bloc__titre__bloc {
         display: flex;
         justify-content: center;
     }
 
-    .section__service__bloc__titre__texte {
+    .service__bloc__titre__texte {
         font-size: 2rem;
         margin: 0;
         width: 70%;
     }
 
-    .section__service__bloc__services {
+    .service__bloc__services {
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
     }
 
-    .modification__slogan__services__bloc {
+    .services__slogan__bloc {
         margin: 2%;
         width: 46%;
     }
 
-    .modification__slogan__services__description {
+    .services__slogan__description {
         font-size: 1.8rem;
     }
 
-    .section__service__bloc__temoignage {
+    .service__bloc__temoignage {
         display: flex;
         justify-content: center;
     }
 
-    .section__service__bloc__temoignage__texte {
+    .service__bloc__temoignage__texte {
         width: 70%;
     }
 
-    .modification__slogan__services__temoignage {
+    .services__slogan__temoignage {
         font-size: 2rem;
     }
 
-    .modification__slogan__services__temoignage__auteur {
+    .services__slogan__temoignage__auteur {
         font-size: 1.5rem;
     }
     /*  Services == end    */
@@ -1353,25 +1353,25 @@ Idées accessibilite ===========================
     }
 
     /*  Services */
-    .section__service__bloc__titre__texte {
+    .service__bloc__titre__texte {
         width: 100%;
     }
 
-    .modification__slogan__services__bloc__services {
+    .services__slogan__bloc__services {
         flex-direction: column;
         margin: 5rem 2rem;
     }
 
-    .modification__slogan__services__bloc {
+    .services__slogan__bloc {
         width: 100%;
         margin: 2rem 0;
     }
 
-    .section__service__bloc__temoignage {
+    .service__bloc__temoignage {
         margin: 0;
     }
 
-    .section__service__bloc__temoignage__texte {
+    .service__bloc__temoignage__texte {
         width: 100%;
     }
     /*  Services == end */
