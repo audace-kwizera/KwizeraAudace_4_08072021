@@ -913,7 +913,7 @@ Idées accessibilite ===========================
     font-size: 1.4rem;
 }
 
-.modification__portfolio__carte {
+.portfolio__carte {
     width: 46%;
     margin: 2%;
 }
@@ -929,22 +929,22 @@ Idées accessibilite ===========================
 /*=============== Page contact ====================*/
 
 /* Page contact parlons design */
-.modification__page__contact__parlons__design__titre {
+.page__contact__parlons__design__titre {
     color: white!important;
     font-weight: 700;
 }
 
-.modification__page__contact__parlons__design__description {
+.page__contact__parlons__design__description {
     color: white!important;
     font-size: 1.9rem;
     margin-top: 4rem;
 }
 
-.modification__page__contact__parlons__design__formulaire__label {
+.page__contact__parlons__design__formulaire__label {
     font-size: 1.7rem;
 }
 
-.modification__page__contact__parlons__design__formulaire__adresse {
+.page__contact__parlons__design__formulaire__adresse {
     font-size: 2rem;
     display: flex;
     justify-content: center;
@@ -960,7 +960,7 @@ Idées accessibilite ===========================
 /* Page contact parlons design == end */
 
 /* Scroll*/
-.modification__scroll__to__top__button {
+.scroll__to__top__button {
     width: 40px;
     height: 40px;
     position: fixed;
@@ -975,7 +975,7 @@ Idées accessibilite ===========================
     box-shadow: 3px 5px 15px 3px rgb(128 128 128 / 30%);
 }
 
-.modification__scroll__to__top__button__icone {
+.scroll__to__top__button__icone {
     color: black;
 }
 
@@ -983,16 +983,16 @@ Idées accessibilite ===========================
 /*=============== Footer ====================*/
 
 /* footer */
-.modification__footer__description {
+.footer__description {
     font-size: 1.3rem;
     color: black!important;
 } 
 
-.modification__footer__icone {
+.footer__icone {
     color: black!important;
 }
 
-.modification__footer__icone:hover {
+.footer__icone:hover {
     color: white!important;
     transition: 400ms ease;
 }
@@ -1319,21 +1319,21 @@ Idées accessibilite ===========================
 
     /*  Formulaure page contact */
 
-    .mofification__page__contact__parlons__design__formulaire {
+    .page__contact__parlons__design__formulaire {
         display: flex;
         justify-content: center;
         width: 75%;
     }
     /**/
 
-    .modification__page__contact__parlons__design__formulaire__adresse {
+    .page__contact__parlons__design__formulaire__adresse {
         margin: 2rem;
     }
 
 
     /*  footer  */
 
-    .modification__footer__description {
+    .footer__description {
         display: flex;
         justify-content: space-around;
     }
@@ -1398,7 +1398,7 @@ Idées accessibilite ===========================
         flex-direction: column;
     }
 
-    .modification__portfolio__carte {
+    .portfolio__carte {
         width: 94%;
         margin-top: 10rem;
         margin-left: 2%;
@@ -1414,17 +1414,17 @@ Idées accessibilite ===========================
 
     /*  Formulaure page contact */
 
-    .mofification__page__contact__parlons__design__formulaire {
+    .page__contact__parlons__design__formulaire {
         display: flex;
         justify-content: center;
         width: 50%;
     }
 
-    .mofification__page__contact__parlons__design__formulaire__bloc {
+    .page__contact__parlons__design__formulaire__bloc {
         margin: 3rem;
     }
 
-    .modification__page__contact__parlons__design__formulaire__adresse {
+    .page__contact__parlons__design__formulaire__adresse {
         margin: 2rem;
         font-size: 1.7rem;
     }
