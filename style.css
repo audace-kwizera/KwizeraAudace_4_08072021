@@ -894,10 +894,6 @@ Idées accessibilite ===========================
 /* Bloc services == end */
 
 /* what-i-do */
-.modification__what__i__do__bloc {
-    backdrop-filter: blur(20px);
-}
-
 .modification__what__i__do__titre {
     color: white!important;
 }
@@ -925,7 +921,6 @@ Idées accessibilite ===========================
 
 /* cta */
 .modification__cta__titre {
-    backdrop-filter: blur(5px);
     margin: 0 31rem;
     color: white!important;
 }
