@@ -1420,8 +1420,13 @@ Idées accessibilite ===========================
         width: 50%;
     }
 
+    .mofification__page__contact__parlons__design__formulaire__bloc {
+        margin: 3rem;
+    }
+
     .modification__page__contact__parlons__design__formulaire__adresse {
         margin: 2rem;
+        font-size: 1.7rem;
     }
 
     .social {
