@@ -834,11 +834,11 @@ Idées accessibilite ===========================
 
 /* header */
 
-.modification__header__lien {
+.site-navigation__header__lien {
     margin: 0 2rem;
 }
 
-.modification__header__lien:hover {
+.site-navigation__header__lien:hover {
     color: white!important;
     font-weight: 800;
     background:#F3976C!important;
@@ -1208,14 +1208,14 @@ Idées accessibilite ===========================
 
     /*  header  */
 
-    .modification__header__lien {
+    .site-navigation__header__lien {
         display: flex;
         justify-content: center;
         text-align: center;
         margin: 0;
     }
 
-    .modification__header__lien:hover {
+    .site-navigation__header__lien:hover {
         border-radius: 0;
         margin: 0;
     }
