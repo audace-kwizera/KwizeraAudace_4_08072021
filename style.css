@@ -914,6 +914,10 @@ Idées accessibilite ===========================
     width: 46%;
     margin: 2%;
 }
+
+.portfolio__miniature {
+    width: 100%;
+}
 /* portfolio == end */
 
 /* cta */
